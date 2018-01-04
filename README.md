@@ -1,2 +1,2 @@
 # JavaScript-Projects
-Random JavaScript projects I've done to learn
+Each folder holds a JavaScript project I've done or am working on.  These are for learning only.
